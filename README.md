@@ -1,2 +1,2 @@
-# linux-scripts
+# linux scripts
 Linux scripts
